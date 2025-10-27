@@ -1,0 +1,15 @@
+.slidev-layout {
+  --uno: px-14 py-10 text-[1.1rem];
+
+  h1, h2, h3, h4, p, div {
+    --uno: select-none;
+  }
+
+  pre, code {
+    --uno: select-text;
+  }
+
+  a {
+    color: theme('colors.primary');
+  }
+}
