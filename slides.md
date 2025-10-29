@@ -8,6 +8,8 @@ transition: slide-left
 
 ## El motor invisible de la transformación digital
 
+Juliano Cardona 32.281.199
+
 <div v-click class="text-sm opacity-75 mt-6">
 Hardware avanzado • Producción automatizada • IA omnipresente
 </div>
